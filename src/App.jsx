@@ -6,7 +6,8 @@ import Coffee from './components/Coffee'
 function App() {
 
   const coffees = useLoaderData()
-  console.log(coffees)
+  // console.log(coffees)
+  
 
 
   return (
